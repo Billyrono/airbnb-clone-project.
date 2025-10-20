@@ -90,3 +90,31 @@ Enhances conversion rates by ensuring that users can complete bookings quickly a
 Builds trust and satisfaction, encouraging repeat visits and positive feedback.
 
 Improves accessibility and inclusivity, ensuring all users, regardless of ability, can navigate and interact with the platform effectively.
+
+# Project Roles and Responsibilities
+
+A successful project requires collaboration across multiple roles.
+Each team member has a distinct responsibility that contributes to building, testing, and deploying a high-quality web application.
+
+## Role	Responsibilities	Contribution to Project Success
+Project Manager	Oversees the project timeline, organizes meetings, and ensures tasks are completed on schedule.	Keeps the team aligned, maintains focus on deliverables, and ensures deadlines are met.
+Frontend Developers	Build user-facing components using HTML, CSS, and JavaScript (React). Ensure responsive and accessible designs.	Deliver a visually appealing, fast, and responsive interface that enhances user experience.
+Backend Developers	Develop RESTful APIs, manage databases, and implement authentication, business logic, and data validation.	Ensure secure, reliable, and scalable server-side functionality.
+Designers (UI/UX)	Create mockups, define color schemes, typography, and component layouts in Figma. Maintain design system consistency.	Provide a clean, intuitive, and cohesive user experience across all devices.
+QA/Testers	Write test cases, perform unit and integration testing, identify bugs, and verify fixes.	Ensure the platform functions correctly, remains bug-free, and meets quality standards.
+DevOps Engineers	Manage deployment pipelines, servers, and continuous integration/continuous delivery (CI/CD).	Streamline deployment and maintain reliability, uptime, and scalability.
+Product Owner	Defines requirements, prioritizes features, and represents stakeholder needs.	Ensures the final product meets business goals and user expectations.
+Scrum Master	Facilitates Agile processes, manages sprint reviews and stand-ups, and removes blockers.	Keeps the development process efficient and team communication effective.
+## Summary
+
+Each role plays a vital part in achieving the project’s overall success:
+
+Designers ensure the product looks great and is easy to use.
+
+Frontend and Backend Developers bring functionality to life.
+
+QA/Testers maintain quality and reliability.
+
+DevOps Engineers ensure smooth deployment and scalability.
+
+Project Manager, Product Owner, and Scrum Master guide the workflow, priorities, and coordination.
