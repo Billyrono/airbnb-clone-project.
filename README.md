@@ -118,3 +118,77 @@ QA/Testers maintain quality and reliability.
 DevOps Engineers ensure smooth deployment and scalability.
 
 Project Manager, Product Owner, and Scrum Master guide the workflow, priorities, and coordination.
+
+# UI Component Patterns
+
+The project’s frontend will be built using reusable, modular UI components to ensure consistency, maintainability, and scalability across all pages.
+Each component will follow a clean, responsive design pattern that adapts to both desktop and mobile screens.
+
+# Planned Components
+## 1. Navbar
+
+### Description:
+The navigation bar provides quick access to key areas of the application and remains consistent across all pages.
+
+### Features:
+
+Logo and brand name
+
+Search bar for property lookup
+
+User navigation menu (login/profile options)
+
+Responsive dropdown menu for smaller screens
+
+### Purpose:
+Enhances navigation and provides a consistent entry point for all user actions.
+
+## 2. Property Card
+
+### Description:
+Displays key property details in a compact, visually appealing format within property listings.
+
+### Features:
+
+Property image thumbnail
+
+Basic details: price, location, and rating
+
+“Favorite” or “Save” button for wishlists
+
+Responsive grid layout
+
+### Purpose:
+Allows users to quickly browse and compare properties without leaving the listing page.
+
+## 3. Footer
+
+### Description:
+The footer provides essential site-wide links and contact information.
+
+### Features:
+
+Navigation links (About, Contact, Privacy Policy)
+
+Company information
+
+Social media icons
+
+Copyright notice
+
+### Purpose:
+Enhances professionalism and provides users with additional navigation and contact options.
+
+# Design Approach
+
+### Each component will:
+
+Be reusable across multiple pages
+
+Follow a consistent color scheme and typography defined in the design system
+
+Use responsive layouts for both mobile and desktop
+
+Adhere to accessibility standards (WCAG 2.1)
+
+Be structured for easy integration into frameworks like React
